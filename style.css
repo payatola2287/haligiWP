@@ -1,3 +1,14 @@
-.theme-haligiwp {
-	/* HaligiWP WordPress Theme */
+/*
+Theme Name: HaligiWP Engineering Theme
+Theme URI: https://example.com
+Author: Paolo Gallardo
+Author URI: https://payatola2287.github.io
+Description: Custom engineering firm theme
+Version: 1.0
+Text Domain: hawp
+*/
+
+body {
+    margin:0;
+    font-family: system-ui, sans-serif;
 }
